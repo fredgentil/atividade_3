@@ -1,12 +1,13 @@
 # Lista de Alunos
 
 1. jose clevis de oliveira neto 
-2. Evertt Almeida de Oliveira.
+2. Evertt Almeida de Oliveira
 3. Felype das Vigens Salles
-4. Igor Felipe Ferreira Santos.
+4. Igor Felipe Ferreira Santos
 5. Elizabete Gomes
 6. Reinan Guilherme de Oliveira Neto
 7. David Bruno Gomes de Souza
 8. Sílvio José Rodrigues da Silva Filho
 9. Bárbara Katlyn Costa Santos 
 10. Bárbara Lays dantas dos santos 
+11. Tiago Leite Santos
